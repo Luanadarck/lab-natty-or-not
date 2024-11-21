@@ -1,42 +1,28 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-BOOK RECEITAS DE BOLOS FUNCIONAIS ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+APRESENTAÇÃO DE UM E-BOOK COM RECEITAS DE BOLOS FUNCIONAIS, SEM AÇUCAR , SEM LACTOSE E SEM GLUTÉN.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT GPT 4.0 mini
+Gamma App
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei as sugestões das receitas de bolos funcionais, através do chat GPT.
+Salvei a consulta no word e tranformei em pdf.
+Importei o pdf no gamma app e solicitei a criação do parte de arte visual do e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+LINK PARA O E-BOOK:
+https://gamma.app/docs/E-book-Bolos-Sem-Gluten-Sem-Acucar-e-Sem-Lactose-pgey5o25l625tmw?mode=doc
+<iframe src="https://gamma.app/embed/pgey5o25l625tmw" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="E-book: Bolos Sem Glúten, Sem Açúcar e Sem Lactose"></iframe>
 
 ### Exemplos e Insigths
 
